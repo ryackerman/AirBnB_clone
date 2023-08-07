@@ -3,7 +3,7 @@
 
 
 
-![alt text](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230807T202102Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=6f47a66ef01d62c895d5d438aa92f00740f3817bd49eb9595d305a79eb28fb26)
+![alt text](https://i.ibb.co/48NPTDT/65f4a1dd9c51265f49d0.png)
 
 ## Background Context
 
@@ -86,7 +86,7 @@ $
 
 All tests should also pass in non-interactive mode: `$ echo "python3 -m unittest discover tests" | bash`
 
-![alt text](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/815046647d23428a14ca.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230807T202102Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8875e2bdd405b1bfa364b8643fe6820b160bc350f0ac146ed99af94d5aa68a9a)
+![alt text](https://i.ibb.co/7t65kQS/815046647d23428a14ca.png)
 ## Commands
 
 | **Commands**        | **Description**           |
