@@ -1,3 +1,9 @@
+#!/usr/bin/python3
+"""Module console
+
+This Module contains a definition for HBNBCommand Class
+"""
+
 import sys
 import cmd
 
